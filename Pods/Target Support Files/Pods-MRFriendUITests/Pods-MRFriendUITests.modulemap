@@ -1,0 +1,6 @@
+framework module Pods_MRFriendUITests {
+  umbrella header "Pods-MRFriendUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
